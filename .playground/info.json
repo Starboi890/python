@@ -1,0 +1,7 @@
+{"a":"python","b":"python sandbox project","c":"PYTHON"}
+name={wisdom}
+print = {wisdom}
+man = 5
+lady = 2
+total = man +lady
+print {total}
